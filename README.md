@@ -1,2 +1,1 @@
 # SnapDetection
-# SnapDetection
